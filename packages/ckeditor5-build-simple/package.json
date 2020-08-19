@@ -1,5 +1,5 @@
 {
-  "name": "@ckeditor/ckeditor5-build-simple",
+  "name": "@gemeinling/ckeditor5-build-simple",
   "version": "21.0.0",
   "description": "A very simple build for CKEditor5",
   "keywords": [
@@ -56,7 +56,7 @@
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5.git",
+    "url": "https://github.com/gemeinling/ckeditor5.git",
     "directory": "packages/ckeditor5-build-simple"
   },
   "scripts": {
